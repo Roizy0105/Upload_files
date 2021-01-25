@@ -1,0 +1,33 @@
+/*General styling*/
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*End of General styling*/
+/*Input styling*/
+.input_container {
+  position: absolute;
+  top: 0;
+  left: 22%;
+  padding: 5rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.input_feild {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  margin: 20px;
+  width: 35rem;
+  height: 70px;
+  border: solid 5px black;
+  border-radius: 25px;
+  font-size: 20px;
+}
+
+/*End of Input styling*/
